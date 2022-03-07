@@ -18,7 +18,6 @@ The ``generate`` method allows you to pass custom specifications for the generat
 ```php
  PasswordGenerator::generate($strength, $length);
 ```
-The ``generate`` method allows you to pass custom specifications for the generator.
 
 ## Testing
 
